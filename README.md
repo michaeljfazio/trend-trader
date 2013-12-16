@@ -13,8 +13,8 @@ Only a single trade will be entered into in either direction for a single pair a
 # What to Expect
 
 * More small losses and fewer large gains (expect 40% drawdowns)
-* Biggest gainst will be realized of large market moves
-* A long-term strategy and may stay out of the market for weeks at a time.
+* Larger gains will be realized when large market moves occur
+* A long-term strategy and may stay out of the market for weeks at a time
 * I won't speculate on performance (do your own backtests and forward tests!)
 
 # Disclaimer
