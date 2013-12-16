@@ -6,6 +6,8 @@ Strategy (default configuration)
 
 Waits for a 20-day breakout (high or low). Shorts the low breakouts, goes long on the high breakouts. Exits trade when stop-loss is triggered. Stop-losses are constantly re-evaluated for open trades at twice the 10 day average true range (ATR). Lot sizes adjusted to 1% of total account free margin.
 
+Only a single trade will be entered into in either direction for a single pair at any one time.
+
 # What to Expect
 
 * More small losses and fewer large gains (expect 40% drawdowns)
