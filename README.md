@@ -4,7 +4,9 @@ A simple breakout trend trader EA for the MetaTrader trading platform.
 
 Strategy (default configuration)
 
-Waits for a 20-day breakout (high or low). Shorts the low breakouts, goes long on the high breakouts. Exits trade when stop-loss is triggered. Stop-losses are constantly re-evaluated for open trades at twice the 10 day average true range (ATR). Lot sizes adjusted to 1% of total account free margin.
+Very loosely based on the turtle trader strategy with emphasis on risk management.
+
+Waits for a 20-day breakout (high or low). Shorts the low breakouts, goes long on the high breakouts. Exits trade when stop-loss is triggered. Stop-losses are constantly re-evaluated for open trades at twice the 10 day average true range (ATR). Lot sizes adjusted to 1% of total account free margin (if the calculated lot size is smaller than the minimum allowable lot size, then the minimum lot size is used).
 
 Only a single trade will be entered into in either direction for a single pair at any one time.
 
