@@ -2,7 +2,7 @@
 
 A simple breakout trend trader EA for the MetaTrader trading platform.
 
-Strategy (default configuration)
+# Strategy (default configuration)
 
 Very loosely based on the turtle trader strategy with emphasis on risk management.
 
